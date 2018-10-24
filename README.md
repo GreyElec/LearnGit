@@ -1,2 +1,0 @@
-# LearnGit
-LearnGit_Project
