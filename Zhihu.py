@@ -1,5 +1,5 @@
-#N,M = map(int,input().split())
-#Ls1,Ls2 = list(map(int,input().split())),list(map(int,input().split()))
+# N,M = map(int,input().split())
+# Ls1,Ls2 = list(map(int,input().split())),list(map(int,input().split()))
 
 
 def reSort(Ls1, Ls2):
@@ -80,7 +80,7 @@ resLinkList = MergeLinkList(LinkList1, Linklist2)
 while resLinkList:
     val.append(resLinkList.val)
     resLinkList = resLinkList.next
-#print('->'.join(map(str, val)))
+# print('->'.join(map(str, val)))
 
 Origin, num = map(int, input().split())
 ans = 0
