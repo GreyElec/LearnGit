@@ -47,6 +47,16 @@ class Solution:
         return fib_list[-1]
 
 
+class ChildSolution(Solution):
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        print(self.some_test_func(5))
+        # print(self)
+
+
 S = Solution()
 # print(S.ArrayNesting([5, 4, 0, 3, 1, 6, 2]))
-print(S.some_test_func(5))
+# print(S.some_test_func(5))
+CS = ChildSolution()  # self == CS
+# print(CS)

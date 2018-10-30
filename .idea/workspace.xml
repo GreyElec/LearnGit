@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec55b930-8b3c-4780-8829-e8cc5f7c4eb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/FirstTemplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FirstTemplate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mafengwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/mafengwo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode46.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode889.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode889.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,13 +18,15 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/FirstTemplate$Zhihu.coverage" NAME="Zhihu Coverage Results" MODIFIED="1538577884318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$DIDIExam.coverage" NAME="DIDIExam Coverage Results" MODIFIED="1539225245611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FirstTemplate$ZhuYuJiao_Work.coverage" NAME="ZhuYuJiao_Work Coverage Results" MODIFIED="1540827628643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Continuum/anaconda3" />
     <SUITE FILE_PATH="coverage/FirstTemplate$YidianZixun.coverage" NAME="YidianZixun Coverage Results" MODIFIED="1538222046726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$NVDIA.coverage" NAME="NVDIA Coverage Results" MODIFIED="1539344895029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$RedInterview.coverage" NAME="RedInterview Coverage Results" MODIFIED="1539161901820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$Leetcode889.coverage" NAME="Leetcode889 Coverage Results" MODIFIED="1539424875990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FirstTemplate$LeetCode46.coverage" NAME="LeetCode46 Coverage Results" MODIFIED="1539160851589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FirstTemplate$LeetCode46.coverage" NAME="LeetCode46 Coverage Results" MODIFIED="1540864274074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$Bianlifeng2.coverage" NAME="Bianlifeng2 Coverage Results" MODIFIED="1538103600554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$Shenxinfu.coverage" NAME="Shenxinfu Coverage Results" MODIFIED="1539429617291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FirstTemplate$LeetCode916.coverage" NAME="LeetCode916 Coverage Results" MODIFIED="1540817044710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$VMWARE.coverage" NAME="VMWARE Coverage Results" MODIFIED="1538270324925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1538058702390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FirstTemplate$LeetCodeUnknow.coverage" NAME="LeetCodeUnknow Coverage Results" MODIFIED="1539324778422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -50,41 +54,43 @@
     <session id="-308480901">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="54" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.3" value="18" />
-          <entry key="project.open.time.4" value="17" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="20" />
+          <entry key="project.open.time.4" value="28" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pstat" value="1" />
-          <entry key="py" value="31" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="31" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Leetcode889" value="127" />
-          <entry key="Python Console" value="869" />
+          <entry key="Python Console" value="1447" />
+          <entry key="ZhuYuJiao_Work" value="53" />
           <entry key="dummy" value="3" />
-          <entry key="py" value="11089" />
+          <entry key="py" value="11221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="12085" />
+          <entry key="Python" value="12848" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -99,8 +105,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode916.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state>
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode46.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ZhuYuJiao_Work.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Leetcode889.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -108,17 +141,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DIDIExam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state>
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mafengwo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state>
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -149,7 +182,6 @@
         <option value="$PROJECT_DIR$/YidianZixun.py" />
         <option value="$PROJECT_DIR$/Zhihu.py" />
         <option value="$PROJECT_DIR$/BianliFeng.py" />
-        <option value="$PROJECT_DIR$/LeetCode46.py" />
         <option value="$PROJECT_DIR$/联想笔试.py" />
         <option value="$PROJECT_DIR$/软文笔试.py" />
         <option value="$PROJECT_DIR$/RedInterview.py" />
@@ -163,6 +195,8 @@
         <option value="$PROJECT_DIR$/LeetCode916.py" />
         <option value="$PROJECT_DIR$/DIDIExam.py" />
         <option value="$PROJECT_DIR$/mafengwo.py" />
+        <option value="$PROJECT_DIR$/LeetCode46.py" />
+        <option value="$PROJECT_DIR$/ZhuYuJiao_Work.py" />
       </list>
     </option>
   </component>
@@ -172,9 +206,34 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="960" />
-    <option name="height" value="1030" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/staging/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/static/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/staging/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/static/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/share/jupyter/lab/static/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/staging/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/static/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/share/jupyter/lab/static/package.json" />
+      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/share/jupyter/lab/static/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="640" />
+    <option name="height" value="345" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,7 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,27 +248,25 @@
               <item name="FirstTemplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstTemplate" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FirstTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Continuum/anaconda3" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
-      <console-settings module-name="FirstTemplate" is-module-sdk="true">
+      <console-settings module-name="FirstTemplate" is-module-sdk="true" working-directory="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib">
         <option name="myUseModuleSdk" value="true" />
         <option name="myModuleName" value="FirstTemplate" />
+        <option name="myWorkingDirectory" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" />
       </console-settings>
     </option>
     <option name="myUseExistingConsole" value="true" />
@@ -230,8 +286,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode916">
-    <configuration name="DIDIExam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.LeetCode46">
+    <configuration name="LeetCode46" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstTemplate" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,29 +300,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DIDIExam.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DongFangCaiFu" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="FirstTemplate" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\black\AppData\Local\Continuum\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DongFangCaiFu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,6 +313,9 @@
       <module name="FirstTemplate" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\black\AppData\Local\Continuum\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -298,6 +335,9 @@
       <module name="FirstTemplate" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\black\AppData\Local\Continuum\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -305,6 +345,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode889.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ZhuYuJiao_Work" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FirstTemplate" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\black\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Continuum/anaconda3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZhuYuJiao_Work.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,18 +421,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Leetcode889" />
-      <item itemvalue="Python.DongFangCaiFu" />
-      <item itemvalue="Python.DIDIExam" />
       <item itemvalue="Python.mafengwo" />
       <item itemvalue="Python.LeetCode916" />
+      <item itemvalue="Python.ZhuYuJiao_Work" />
+      <item itemvalue="Python.LeetCode46" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LeetCode46" />
+        <item itemvalue="Python.ZhuYuJiao_Work" />
         <item itemvalue="Python.LeetCode916" />
         <item itemvalue="Python.Leetcode889" />
         <item itemvalue="Python.mafengwo" />
-        <item itemvalue="Python.DIDIExam" />
-        <item itemvalue="Python.DongFangCaiFu" />
       </list>
     </recent_temporary>
   </component>
@@ -400,32 +462,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.43037975" weight="0.19571045" />
-      <window_info id="Structure" order="1" sideWeight="0.56962025" side_tool="true" visible="true" weight="0.19571045" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40869564" visible="true" weight="0.23123324" />
+      <window_info id="Structure" order="1" sideWeight="0.59130436" side_tool="true" visible="true" weight="0.23123324" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47520107" weight="0.32152975" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47520107" weight="0.32056737" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49128687" weight="0.32765958" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4899464" weight="0.32765958" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4899464" weight="0.32624114" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28954422" side_tool="true" weight="0.3319149" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" sideWeight="0.4978678" weight="0.3275488" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.7104558" visible="true" weight="0.34468085" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.7104558" visible="true" weight="0.34751773" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.308311" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" side_tool="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,13 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1463">
           <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode46.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -525,13 +581,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld.py" />
-    <entry file="file://$PROJECT_DIR$/Leetcode889.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DongFangCaiFu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -560,24 +609,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode916.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state>
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode46.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DIDIExam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state>
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mafengwo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state>
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode889.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZhuYuJiao_Work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>

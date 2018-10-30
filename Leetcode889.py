@@ -23,8 +23,8 @@ class Solution:
         root.right = self.constructFromPrePost(pre[i + 1:], post[i + 1:])
         return root
 
+
 test_pre = [1, 2, 4, 5, 3, 6, 7]
 test_post = [4, 5, 2, 6, 7, 3, 1]
 S = Solution()
 x = S.constructFromPrePost(pre=test_pre, post=test_post)
-print(x)
