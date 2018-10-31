@@ -17,3 +17,5 @@ def string_cLean(string):
 
 target_col['联想_TN'] = target_col['联想_TN'].apply(string_cLean)
 target_col.to_excel('联想_TN_2.xls')
+target_all = pd.merge(target_col,target_col_2,right_index=True,left_index=True)
+#target_col_2.to_excel('test.xls',header = True,index = False,startcol=1)

@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec55b930-8b3c-4780-8829-e8cc5f7c4eb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FirstTemplate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FirstTemplate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode46.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode46.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode889.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode889.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,16 +49,16 @@
     <session id="-308480901">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="56" />
           <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="20" />
-          <entry key="project.open.time.4" value="28" />
+          <entry key="project.open.time.4" value="29" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="60" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -81,7 +76,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Leetcode889" value="127" />
-          <entry key="Python Console" value="1447" />
+          <entry key="Python Console" value="1479" />
           <entry key="ZhuYuJiao_Work" value="53" />
           <entry key="dummy" value="3" />
           <entry key="py" value="11221" />
@@ -90,7 +85,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="12848" />
+          <entry key="Python" value="12880" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -105,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode916.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="304">
               <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
@@ -114,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode46.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="112">
               <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
@@ -123,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ZhuYuJiao_Work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="144">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -132,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Leetcode889.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="480">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
@@ -141,7 +136,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DIDIExam.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="128">
               <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
             </state>
           </provider>
@@ -150,7 +145,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mafengwo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="432">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
@@ -214,13 +209,6 @@
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/staging/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/static/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
-      <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/.trash/591d240e-ef89-40df-bbe0-a8b1e425633b/share/jupyter/lab/static/package.json" />
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/staging/package.json" />
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/static/package.json" />
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/pkgs/jupyterlab-0.35.2-py37_0/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
@@ -231,7 +219,7 @@
       <path value="$USER_HOME$/AppData/Local/Continuum/anaconda3/share/jupyter/lab/static/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="640" />
     <option name="height" value="345" />
   </component>
@@ -259,7 +247,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -462,11 +450,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40869564" visible="true" weight="0.23123324" />
-      <window_info id="Structure" order="1" sideWeight="0.59130436" side_tool="true" visible="true" weight="0.23123324" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4078091" visible="true" weight="0.23458445" />
+      <window_info id="Structure" order="1" sideWeight="0.59219086" side_tool="true" visible="true" weight="0.23458445" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -481,14 +468,14 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.28954422" side_tool="true" weight="0.3319149" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" sideWeight="0.4978678" weight="0.3275488" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.7104558" visible="true" weight="0.34751773" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="13" sideWeight="0.7104558" visible="true" weight="0.3460993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.308311" />
       <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3297587" />
-      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="6" side_tool="true" visible="true" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -618,43 +605,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode916.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="304">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode46.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="112">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode889.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DIDIExam.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="128">
           <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mafengwo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="432">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode889.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZhuYuJiao_Work.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state relative-caret-position="144">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
